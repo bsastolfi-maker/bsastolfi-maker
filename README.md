@@ -1,16 +1,88 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="100%" alt="Profile Banner">
+</p>
+# 👋 Hi, I'm Bianca Soares Astolfi
 
-<!--
-**bsastolfi-maker/bsastolfi-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bioinformatics • Genomics • Computational Biology
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Bianca Soares Astolfi.
+
+I hold a Master's degree in Biotechnology and Molecular Biology, with experience in molecular biology, recombinant protein production, cloning, immunological assays and structural biology.
+
+Currently, I am transitioning into Bioinformatics, focusing on Genomics and Computational Biology.
+
+My goal is to integrate experimental biology with computational approaches to answer biological questions using reproducible and scalable workflows.
+
+## Research Interests
+🧬 Genomics
+
+🧬 Comparative Genomics
+
+🧬 Functional Genomics
+
+🧬 Sequence Analysis
+
+🧬 Biological Data Science
+
+🧬 Computational Biology
+
+🧬 Structural Bioinformatics
+
+## Previous Research Experience
+✔ Molecular Biology
+
+✔ Gene Cloning
+
+✔ Recombinant Protein Production
+
+✔ Primer Design
+
+✔ PCR
+
+✔ Protein Purification
+
+✔ Protein Characterization
+
+✔ Sanger Sequencing
+
+✔ ELISA
+
+✔ ELISpot
+
+✔ qPCR
+
+✔ Structural Biology
+
+✔ Scientific Writing
+
+## Programming 
+✔ Python
+
+✔ R
+
+✔ Linux
+
+✔ Git
+
+✔ Bash
+
+## Bioinformatic tools
+✔ BLAST
+
+✔ Biopython
+
+✔ Galaxy
+
+✔ AlphaFold
+
+✔ PyMOL
+
+✔ AutoDock
+
+✔ Discovery Studio
+
+✔ Clustal Omega
+
+✔ MAFFT
