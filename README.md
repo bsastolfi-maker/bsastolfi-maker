@@ -16,73 +16,73 @@ Currently, I am transitioning into Bioinformatics, focusing on Genomics and Comp
 My goal is to integrate experimental biology with computational approaches to answer biological questions using reproducible and scalable workflows.
 
 ## Research Interests
-🧬 Genomics
+- Genomics
 
-🧬 Comparative Genomics
+- Comparative Genomics
 
-🧬 Functional Genomics
+- Functional Genomics
 
-🧬 Sequence Analysis
+- Sequence Analysis
 
-🧬 Biological Data Science
+- Biological Data Science
 
-🧬 Computational Biology
+- Computational Biology
 
-🧬 Structural Bioinformatics
+- Structural Bioinformatics
 
 ## Previous Research Experience
-✔ Molecular Biology
+- Molecular Biology
 
-✔ Gene Cloning
+- Gene Cloning
 
-✔ Recombinant Protein Production
+- Recombinant Protein Production
 
-✔ Primer Design
+- Primer Design
 
-✔ PCR
+- PCR
 
-✔ Protein Purification
+- Protein Purification
 
-✔ Protein Characterization
+- Protein Characterization
 
-✔ Sanger Sequencing
+- Sanger Sequencing
 
-✔ ELISA
+- ELISA
 
-✔ ELISpot
+- ELISpot
 
-✔ qPCR
+- qPCR
 
-✔ Structural Biology
+- Structural Biology
 
-✔ Scientific Writing
+- Scientific Writing
 
 ## Programming 
-✔ Python
+- Python
 
-✔ R
+- R
 
-✔ Linux
+- Linux
 
-✔ Git
+- Git
 
-✔ Bash
+- Bash
 
 ## Bioinformatic tools
-✔ BLAST
+- BLAST
 
-✔ Biopython
+- Biopython
 
-✔ Galaxy
+- Galaxy
 
-✔ AlphaFold
+- AlphaFold
 
-✔ PyMOL
+- PyMOL
 
-✔ AutoDock
+- AutoDock
 
-✔ Discovery Studio
+- Discovery Studio
 
-✔ Clustal Omega
+- Clustal Omega
 
-✔ MAFFT
+- MAFFT
