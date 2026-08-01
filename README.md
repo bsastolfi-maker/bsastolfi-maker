@@ -1,88 +1,50 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Profile Banner">
-</p>
-# 👋 Hi, I'm Bianca Soares Astolfi
 
-### Bioinformatics • Genomics • Computational Biology
+# 👋 Hi, I'm Bianca Soares Astolfi  
 
-## About Me
+### 🔬 Bioinformatics • Genomics • Computational Biology  
 
-Hello! I'm Bianca Soares Astolfi.
+---
 
-I hold a Master's degree in Biotechnology and Molecular Biology, with experience in molecular biology, recombinant protein production, cloning, immunological assays and structural biology.
+## About Me  
 
-Currently, I am transitioning into Bioinformatics, focusing on Genomics and Computational Biology.
+- Master's in Biotechnology & Molecular Biology  
+- Hands-on experience in molecular biology, protein engineering, immunological assays, and structural biology  
+- Currently transitioning into **Bioinformatics**, focusing on **Genomics** and **Computational Biology**  
+- Goal: Build reproducible and scalable workflows to integrate wet-lab data with computational pipelines  
 
-My goal is to integrate experimental biology with computational approaches to answer biological questions using reproducible and scalable workflows.
+---
 
-## Research Interests
-- Genomics
+## Research Interests  
+- Genomics & Comparative Genomics  
+- Functional Genomics & Sequence Analysis  
+- Biological Data Science  
+- Structural Bioinformatics  
 
-- Comparative Genomics
+---
 
-- Functional Genomics
+## Previous Research Experience  
+- Molecular Biology & Gene Cloning  
+- Recombinant Protein Production & Characterization  
+- Primer Design, PCR, qPCR  
+- Protein Purification & Structural Biology  
+- Sanger Sequencing  
+- Immunological Assays (ELISA, ELISpot)  
+- Scientific Writing  
 
-- Sequence Analysis
+---
 
-- Biological Data Science
+## Programming & Tools  
 
-- Computational Biology
+**Languages & Systems**  
+- Python | R | Bash | Linux | Git  
 
-- Structural Bioinformatics
+**Bioinformatics Tools**  
+- BLAST | Biopython | Galaxy  
+- AlphaFold | PyMOL | AutoDock | Discovery Studio  
+- Clustal Omega | MAFFT  
 
-## Previous Research Experience
-- Molecular Biology
+---
 
-- Gene Cloning
-
-- Recombinant Protein Production
-
-- Primer Design
-
-- PCR
-
-- Protein Purification
-
-- Protein Characterization
-
-- Sanger Sequencing
-
-- ELISA
-
-- ELISpot
-
-- qPCR
-
-- Structural Biology
-
-- Scientific Writing
-
-## Programming 
-- Python
-
-- R
-
-- Linux
-
-- Git
-
-- Bash
-
-## Bioinformatic tools
-- BLAST
-
-- Biopython
-
-- Galaxy
-
-- AlphaFold
-
-- PyMOL
-
-- AutoDock
-
-- Discovery Studio
-
-- Clustal Omega
-
-- MAFFT
+## 📫 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bianca-soares-astolfi)  
+- 📧 bianca.astolfi@gmail.com 
